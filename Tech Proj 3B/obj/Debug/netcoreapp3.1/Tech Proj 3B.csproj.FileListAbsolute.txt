@@ -1,0 +1,13 @@
+C:\Users\natal\OneDrive\Desktop\Tech Proj 3B\obj\Debug\netcoreapp3.1\Tech Proj 3B.csprojAssemblyReference.cache
+C:\Users\natal\OneDrive\Desktop\Tech Proj 3B\obj\Debug\netcoreapp3.1\Tech Proj 3B.AssemblyInfoInputs.cache
+C:\Users\natal\OneDrive\Desktop\Tech Proj 3B\obj\Debug\netcoreapp3.1\Tech Proj 3B.AssemblyInfo.cs
+C:\Users\natal\OneDrive\Desktop\Tech Proj 3B\obj\Debug\netcoreapp3.1\Tech Proj 3B.csproj.CoreCompileInputs.cache
+C:\Users\natal\OneDrive\Desktop\Tech Proj 3B\bin\Debug\netcoreapp3.1\Tech Proj 3B.exe
+C:\Users\natal\OneDrive\Desktop\Tech Proj 3B\bin\Debug\netcoreapp3.1\Tech Proj 3B.deps.json
+C:\Users\natal\OneDrive\Desktop\Tech Proj 3B\bin\Debug\netcoreapp3.1\Tech Proj 3B.runtimeconfig.json
+C:\Users\natal\OneDrive\Desktop\Tech Proj 3B\bin\Debug\netcoreapp3.1\Tech Proj 3B.runtimeconfig.dev.json
+C:\Users\natal\OneDrive\Desktop\Tech Proj 3B\bin\Debug\netcoreapp3.1\Tech Proj 3B.dll
+C:\Users\natal\OneDrive\Desktop\Tech Proj 3B\bin\Debug\netcoreapp3.1\Tech Proj 3B.pdb
+C:\Users\natal\OneDrive\Desktop\Tech Proj 3B\obj\Debug\netcoreapp3.1\Tech Proj 3B.dll
+C:\Users\natal\OneDrive\Desktop\Tech Proj 3B\obj\Debug\netcoreapp3.1\Tech Proj 3B.pdb
+C:\Users\natal\OneDrive\Desktop\Tech Proj 3B\obj\Debug\netcoreapp3.1\Tech Proj 3B.genruntimeconfig.cache
